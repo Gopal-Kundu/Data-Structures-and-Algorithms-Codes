@@ -1,2 +1,0 @@
-This number of ways to reach n if i can take or 2 step at a time, is n-1 + n-2. 
-Min cost to react nth stair if i can take 1 or 2 step at a time, is min(cost to react n-1 step + mincost to react n-1, cost to react n-2 step + mincost to react n-2).
