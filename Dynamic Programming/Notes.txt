@@ -1,0 +1,1 @@
+This number of ways to reach n if i can take or 2 step at a time, is n-1 + n-2. 
