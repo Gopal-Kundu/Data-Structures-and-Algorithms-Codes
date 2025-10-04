@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/house-robber-ii/description/
+// https://leetcode.com/problems/coin-change/description/
 
 class Solution {
     public int coinChange(int[] coins, int amount) {
