@@ -1,4 +1,4 @@
-https://leetcode.com/problems/partition-equal-subset-sum/description/
+// https://leetcode.com/problems/partition-equal-subset-sum/description/
 
 class Solution {
     public boolean canPartition(int[] nums) {
