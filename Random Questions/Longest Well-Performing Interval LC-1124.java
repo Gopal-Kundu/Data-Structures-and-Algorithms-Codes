@@ -18,3 +18,5 @@ class Solution {
         return maxLen;
     }
 }
+
+//Optimized approach
