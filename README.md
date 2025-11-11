@@ -1,4 +1,4 @@
-# Welcome to My Java DSA Practice Repository
+# Welcome to My DSA Practice Repository
 
 This repository contains my collection of **solved Data Structures and Algorithms problems in Java**.
 I have completed **500+ DSA questions** across various topics, including arrays, strings, recursion, dynamic programming, linked lists, trees, graphs, and more.
